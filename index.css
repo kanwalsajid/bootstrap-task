@@ -1,0 +1,17 @@
+
+.form1{
+    width: auto;
+    height: auto;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.form-content{
+    width: auto;
+    height: auto;
+    border: 1px solid rgb(79, 207, 19);
+    padding: 0px 30px
+
+}
